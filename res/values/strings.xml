@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jone Deberes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="leydhont">Ley D\'Hont</string>
+    <string name="juegovida">Juego de la Vida</string>
+    <string name="resultado_jone">A Jone le da...</string>
+    <string name="resultado_luca">A Luca le da...</string>
+    <string name="datos_entrada">Los datos son:</string>
+    <string name="calcular">Calcular</string>
+    
+    
+    <string name="control_play">Play</string>
+    <string name="control_stop">Stop</string>
+    <string name="control_step">Step</string>
+    <string name="control_clear">Clear</string>
+
+</resources>
